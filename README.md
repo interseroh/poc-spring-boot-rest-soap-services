@@ -5,7 +5,6 @@ To use a code first approach to implement a SOAP service Apache CXF should be us
 
 ### Integration of Apache CXF
 
-
 Apache CXF provides a dependency:
 
 ```
@@ -23,12 +22,11 @@ The following Profile
 - `soap` - activate the SOAP Endpoint
 - `swagger` - activate Swagger Endpoint and UI
 
-
 ### Swagger UI
 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
 ### WSDL Endpoint
 [http://localhost:8080/services/](http://localhost:8080/services/)
 
-### Literatur
+### Documentation
 [http://cxf.apache.org/docs/springboot.html](http://cxf.apache.org/docs/springboot.html)
