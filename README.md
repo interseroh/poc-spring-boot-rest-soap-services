@@ -1,4 +1,4 @@
-# REST+SOAP Services mit Spring Boot
+# REST + SOAP Services mit Spring Boot
 
 REST service usually are implemented by a code first approach. 
 To use a code first approach to implement a SOAP service Apache CXF should be used.
